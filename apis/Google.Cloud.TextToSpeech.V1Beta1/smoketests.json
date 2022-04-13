@@ -1,9 +1,0 @@
-[
-  {
-    "method": "ListVoices",
-    "client": "TextToSpeechClient",
-    "arguments": {
-      "languageCode": "en-US"
-    }
-  }
-]

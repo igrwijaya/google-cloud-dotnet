@@ -1,9 +1,0 @@
-[
-  {
-    "method": "ListCatalogs",
-    "client": "CatalogServiceClient",
-    "arguments": {
-      "parent": "projects/${PROJECT_ID}/locations/global"
-    }
-  }
-]

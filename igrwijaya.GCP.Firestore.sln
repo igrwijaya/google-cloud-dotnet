@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "igrwijaya.GCP.Firestore", "igrwijaya.GCP.Firestore\igrwijaya.GCP.Firestore.csproj", "{09F84F55-F7F6-4A6B-96FF-E0213A7F9C04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google.Cloud.Firestore.V1", "Google.Cloud.Firestore.V1\Google.Cloud.Firestore.V1.csproj", "{675B3A26-61B0-4F7B-B890-33EDC8E99205}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09F84F55-F7F6-4A6B-96FF-E0213A7F9C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F84F55-F7F6-4A6B-96FF-E0213A7F9C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F84F55-F7F6-4A6B-96FF-E0213A7F9C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F84F55-F7F6-4A6B-96FF-E0213A7F9C04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{675B3A26-61B0-4F7B-B890-33EDC8E99205}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675B3A26-61B0-4F7B-B890-33EDC8E99205}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675B3A26-61B0-4F7B-B890-33EDC8E99205}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675B3A26-61B0-4F7B-B890-33EDC8E99205}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

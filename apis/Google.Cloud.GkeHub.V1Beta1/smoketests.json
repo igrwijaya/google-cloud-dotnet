@@ -1,9 +1,0 @@
-[
-  {
-    "method": "ListMemberships",
-    "client": "GkeHubMembershipServiceClient",
-    "arguments": {
-      "parent": "projects/${PROJECT_ID}/locations/global"
-    }
-  }
-]

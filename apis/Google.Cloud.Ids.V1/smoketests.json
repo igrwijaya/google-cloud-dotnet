@@ -1,9 +1,0 @@
-[
-  {
-    "method": "ListEndpoints",
-    "client": "IDSClient",
-    "arguments": {
-      "parent": "projects/${PROJECT_ID}/locations/us-central1-a"
-    }
-  }
-]

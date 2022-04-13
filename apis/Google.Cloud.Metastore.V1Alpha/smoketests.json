@@ -1,9 +1,0 @@
-[
-  {
-    "method": "ListServices",
-    "client": "DataprocMetastoreClient",
-    "arguments": {
-      "parent": "projects/${PROJECT_ID}/locations/us-central1"
-    }
-  }
-]

@@ -1,3 +1,0 @@
-[submodule "conformance-tests"]
-	path = conformance-tests
-	url = https://github.com/googleapis/conformance-tests

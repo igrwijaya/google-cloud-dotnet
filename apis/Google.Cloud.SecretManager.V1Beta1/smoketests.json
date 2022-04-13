@@ -1,9 +1,0 @@
-[
-  {
-    "client": "SecretManagerServiceClient",
-    "method": "ListSecrets",
-    "arguments": {
-      "parent": "projects/${PROJECT_ID}"
-    }
-  }
-]

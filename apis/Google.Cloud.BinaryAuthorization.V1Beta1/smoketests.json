@@ -1,9 +1,0 @@
-[
-  {
-    "method": "ListAttestors",
-    "client": "BinauthzManagementServiceV1Beta1Client",
-    "arguments": {
-      "parent": "projects/${PROJECT_ID}"
-    }
-  }
-]

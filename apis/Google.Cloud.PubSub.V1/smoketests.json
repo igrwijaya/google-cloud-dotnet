@@ -1,9 +1,0 @@
-[
-  {
-    "client": "PublisherServiceApiClient",
-    "method": "ListTopics",
-    "arguments": {
-      "project": "projects/${PROJECT_ID}"
-    }
-  }
-]

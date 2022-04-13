@@ -1,9 +1,0 @@
-[
-  {
-    "method": "ListConnectivityTests",
-    "client": "ReachabilityServiceClient",
-    "arguments": {
-      "parent": "projects/${PROJECT_ID}/locations/global"
-    }
-  }
-]

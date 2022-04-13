@@ -1,9 +1,0 @@
-[
-  {
-    "client": "TraceServiceClient",
-    "method": "ListTraces",
-    "arguments": {
-      "projectId": "${PROJECT_ID}"
-    }
-  }
-]
